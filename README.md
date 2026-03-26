@@ -10,20 +10,20 @@ and AI-powered products using Google Gemini and OpenAI.
 ---
 
 ### 🔧 Tech Stack
-`React.js` `Next.js` `Node.js` `Express.js` `MongoDB` `Redis`
+`React.js` `Node.js` `Express.js` `MongoDB` `Redis`
 `TypeScript` `Socket.io` `Razorpay` `AWS S3` `Jest` `Google Gemini`
 
 ---
 
 ### 🚀 Featured Projects
+- **[SpotLet & PMS](https://www.spotlet.co)** — Multi-stage property booking
+  system with Razorpay, Channel Manager sync, WhatsApp Business
+  API notifications, and Socket.io real-time alerts
 
 - **[MockAI](https://mock-ai-app.vercel.app)** — Dual-AI interview platform
   (Gemini + OpenAI), speech analytics, live code execution,
   Razorpay subscription billing, 5,000+ question bank
 
-- **[SpotLet PMS](https://www.spotlet.co)** — Multi-stage property booking
-  system with Razorpay, Channel Manager sync, WhatsApp Business
-  API notifications, and Socket.io real-time alerts
 
 - **Payment & Booking App** — Financial management dashboard
   with instant refunds, real-time notifications, device trust
