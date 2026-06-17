@@ -25,7 +25,7 @@ and AI-powered products using Google Gemini and OpenAI.
   Razorpay subscription billing, 5,000+ question bank
 
 
-- **Payment & Booking App** — Financial management dashboard
+- **[Payment & Booking App](https://paymentflowapp.vercel.app/)** — Financial management dashboard
   with instant refunds, real-time notifications, device trust
   logging, and role-based access
 
